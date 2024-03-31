@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Srivastava-Smriti.
+- 👀 I’m interested and skilled in coding and web development.
+- 🌱 I’m currently learning advanced DSA and trying my hands at web development(MERN).
+- 💞️ I’m looking to contribute in open source projects.
+- 📫 You can reach me through LinkedIn - https://www.linkedin.com/in/smriti-srivastava-6432661ba/
+- ⭐ Let's connect to develop and build something great. ✌️
